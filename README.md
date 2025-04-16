@@ -2,7 +2,7 @@
 
 # 🐶Info
 
-연세대학교 미래캠퍼스 소프트웨어학부 재학중인 주준경입니다.
+연세대학교 소프트웨어학부 재학중인 주준경입니다.
 
 <a href="https://www.instagram.com/wnwnsrud_02/"><img src="https://img.shields.io/badge/wnwnsrud_02-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:jmhh10715@yonsei.ac.kr"><img src="https://img.shields.io/badge/jmhh10715@yonsei.ac.kr-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
